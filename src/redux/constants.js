@@ -1,0 +1,1 @@
+export const TEST_PROP = 'TEST_PROP';
